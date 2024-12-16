@@ -16,8 +16,7 @@ Welcome to my GitHub profile! I'm a passionate **Data Analyst** who loves diving
 ## 🌐 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/intkhan-isakani-b2a01032a/)
-- 📧 Email: intkhanisakani@gmail.com(mailto:intkhanisakani@gmail.com)
-- 📝 [Portfolio](#)
+- 📧 Email: intkhanisakani@gmail.com
 
 ---
 
